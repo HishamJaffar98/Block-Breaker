@@ -1,5 +1,5 @@
 # Block-Breaker
-A synthwave themed 2D Arkanoid game built in Unity using C#, FL Studio (For music edits) 
+A synthwave themed 2D Arkanoid game built in Unity using C# and Audacity (*for audio editing*).
 
 # Project Structure
 This repository consists of four folders:-
@@ -28,7 +28,7 @@ The [Final_Game_Builds](Final_Game_Builds) folder consists of two final builds o
 1. A standalone PC build ---->[PC](Final_Game_Builds/Block_Breaker_PC_Build)
 2. A WebGL build         ---->[WebGL](Final_Game_Builds/Block_Breaker_Web)
 
-### Running the Game
+# Running the Game
 To run the game using the PC build :-
 
 - Download the Repository.
@@ -53,4 +53,4 @@ Controls:-
 - Use `Escape` to toggle the pause menu
 
 # Further Information
-For detailed technichal implementation and design details please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki)
+For detailed technichal implementation and design details please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki) of this repository.
