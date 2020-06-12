@@ -53,4 +53,4 @@ Controls:-
 - Use `Escape` to toggle the pause menu
 
 # Further Information
-For detailed technichal implementation and design details please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki) of this repository.
+For detailed design specifications please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki) of this repository.
