@@ -16,7 +16,7 @@ of the game or play the final build, respectively.
 This consists of the all the entities used to make the game. These entities (assets) can be categorized as:-
 
 1. [Audio](Audio)
-2. [Fonts](Fonts]
+2. [Fonts](Fonts)
 3. [Materials](Materials)
 4. [Prefabs](Prefabs)
 5. [Scenes](Scenes)
